@@ -89,8 +89,12 @@ A nontrivial OpenGL program that shows a procedurally-generated fractal, the Men
 *Water Caustics*
 
 ![Caustics](https://media.giphy.com/media/THkPwLql3kx2bv9dzW/giphy.gif)
-[https://media.giphy.com/media/THkPwLql3kx2bv9dzW/giphy.gif]: view image
+
+[view image](https://media.giphy.com/media/THkPwLql3kx2bv9dzW/giphy.gif) 
 
 *Water + Tidal Wave + Reflection*
+
 ![Waves](https://media.giphy.com/media/XJeM1TiY3jI6JZKI4Z/giphy.gif)
-[https://media.giphy.com/media/XJeM1TiY3jI6JZKI4Z/giphy.gif]: view image
+
+[view image](https://media.giphy.com/media/XJeM1TiY3jI6JZKI4Z/giphy.gif) 
+

@@ -76,13 +76,13 @@ A nontrivial OpenGL program that shows a procedurally-generated fractal, the Men
     - The path the the cubemap can be absolute or relative to your current terminal directory.
 
 
-** Installation **
+**Installation**
 
-⋅⋅*  `mkdir build` to setup build directory
-⋅⋅*  `cd build`
-..* `CMAKE ..`, if you want to build it on release build then `CMAKE --DCMAKE_BUILD_TYPE=Release ..`
-..* `make -j8` to build the program
-..* The binary should be generated inside `./build/bin`
+*  `mkdir build` to setup build directory
+*  `cd build`
+* `CMAKE ..`, if you want to build it on release build then `CMAKE --DCMAKE_BUILD_TYPE=Release ..`
+* `make -j8` to build the program
+* The binary should be generated inside `./build/bin`
 
 
 
